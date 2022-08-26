@@ -6,7 +6,7 @@ Tool used to facilitate viewing downloaded Playstation 1 MemcardPro Memory card 
 
 <b>Requirements</b>
 
-PHP 7.4.8
+PHP 7.4.8<br>
 PS1 Memory Card files downloaded into the MemoryCards folder stored in the format as the example Xenogears card
 
 <b>Purpose</b>
