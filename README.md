@@ -12,7 +12,7 @@ PS1 Memory Card files downloaded into the MemoryCards folder stored in the forma
 <b>Purpose</b>
 
 I enjoy playing my PS1 games on my original playstation. I currently have an X-Station ODE installed and picked up a Memcard Pro from 8bitMods. With this, I can have an SD card full
-of all of the saves with ease of swapping, but what if I wanted to put these saves on my Steam Deck running Duckstation? This tool is for that purpose. It is currently work
+of all of the saves with ease of swapping, but what if I wanted to put these saves on my Steam Deck running an emulator for on the go? This tool is for that purpose. It is currently work
 in progress and incomplete, but I will be adding a few extra features to finish off my vision in the near future.
 
 <b>Usage</b>
