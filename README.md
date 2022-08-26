@@ -35,7 +35,7 @@ At this time MemcardPro Web Tool only supports downloading of files. I plan to a
 mcd contents back to your MemcardPro and resume play on your original PS1. Otherwise I may mess around adding visual enhancements (animated memory card icons, UI
 resembling an original PS1, etc) and anything that I find useful when thinking about purposes for this software other than what I use it for.
 
-<b>Special Thanks/Resource</b>
+<b>Special Thanks/Resources</b>
 
 Thanks to shendoXT, author of the MemcardRex program for his code. Without it I would never have had as great of understanding of Memory Card Icons and storage than without
 his source Code. Additionally, https://www.psdevwiki.com/ps3/PS1_Savedata was very helpful in figuring out some stuff.
