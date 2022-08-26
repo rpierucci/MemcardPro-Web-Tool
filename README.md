@@ -30,6 +30,7 @@ to navigate to the web server running on your LAN and download memory card files
 import the memory card file into it and now your save is on your Steam Deck faster than using some sort of syncing application.
 
 <b>Future</b>
+
 At this time MemcardPro Web Tool only supports downloading of files. I plan to add a way to "upload" your .mcd file back to the web server where you can then ftp or copy the
 mcd contents back to your MemcardPro and resume play on your original PS1. Otherwise I may mess around adding visual enhancements (animated memory card icons, UI
 resembling an original PS1, etc) and anything that I find useful when thinking about purposes for this software other than what I use it for.
